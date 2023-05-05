@@ -1,0 +1,71 @@
+
+/* RESET  */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* FONT  */
+body{
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* GENERAL */
+
+.container{
+    max-width: 1200px;
+    margin: auto;
+    border: 2px solid rgb(255, 0, 43) ;
+}
+
+.text-align{
+    text-align: center;
+}
+
+.margin-bottom{
+    margin-bottom: 30px;
+}
+
+.float-left{
+    float: left;
+}
+
+.clear-fix::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.img{
+    width: 30%;
+    height: 100%;
+}
+
+text.padding{
+    padding-left: 110px
+}
+
+/* MIAN  */
+
+.title{
+    padding: 25px;
+    color: rgb(253, 120, 142);
+    margin-bottom: 20px;
+}
+
+.staff-container{
+    width: 300px;
+    height: 90px;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    display: inline-block;
+}
+
+.a-color{
+    text-decoration: none;
+    color: skyblue;
+}
