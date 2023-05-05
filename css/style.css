@@ -16,9 +16,9 @@ body{
 /* GENERAL */
 
 .container{
-    max-width: 1200px;
+    max-width: 1000px;
     margin: auto;
-    border: 2px solid rgb(255, 0, 43) ;
+    
 }
 
 .text-align{
@@ -61,6 +61,7 @@ body{
     width: 300px;
     height: 90px;
     border: 1px solid black;
+    
     background-color: black;
     color: white;
     display: inline-block;
@@ -75,4 +76,8 @@ body{
 
 .text-padding{
     padding: 10px;
+}
+
+.staff-container1{
+    margin-right: 43px;
 }
