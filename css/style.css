@@ -29,6 +29,8 @@ body{
     margin-bottom: 30px;
 }
 
+
+
 .float-left{
     float: left;
 }
@@ -48,6 +50,7 @@ text.padding{
     padding-left: 110px
 }
 
+
 /* MIAN  */
 
 .title{
@@ -63,6 +66,7 @@ text.padding{
     background-color: black;
     color: white;
     display: inline-block;
+    
 }
 
 .a-color{
